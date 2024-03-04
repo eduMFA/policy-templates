@@ -1,0 +1,5 @@
+{
+    "idp-admin-fudiscr": "Allow actions required by the fudiscr Shibboleth plugin",
+    "webauthn-enrollment": "Permit WebAuthn enrollment",
+    "idp-application-tokentype": "Allow specification of tokentype to be used by the application"
+}

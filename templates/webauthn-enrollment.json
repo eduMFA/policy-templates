@@ -1,0 +1,9 @@
+{
+    "action": {
+        "webauthn_authenticator_attestation_form": "indirect",
+        "webauthn_authenticator_attestation_level": "none"
+    },
+    "active": true,
+    "name": "webauthn-enrollment",
+    "scope": "enrollment"
+}

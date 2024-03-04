@@ -1,0 +1,12 @@
+{
+    "action": {
+        "tokenlist": true,
+        "triggerchallenge": true
+    },
+    "active": true,
+    "adminuser": [
+        "idp-admin"
+    ],
+    "name": "idp-admin-fudiscr",
+    "scope": "admin"
+}

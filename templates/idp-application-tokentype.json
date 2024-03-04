@@ -1,0 +1,8 @@
+{
+    "action": {
+        "application_tokentype": true
+    },
+    "active": true,
+    "name": "idp-application-tokentype",
+    "scope": "authorization"
+}
